@@ -12,13 +12,17 @@ I program for 3 years but there is little time since when I started to really lo
 
 Soon i will learn a little MD and come back here to update this and give it some dynamic, but for now it is it! So thank you for reading this far. 
 
-How to find me: 
+### Connect with me: 
 
--Email: greattibrenno@gmail.com
+<img width = '22px' src = 'https://github.com/greatti/greatti/blob/main/gmail.svg' /> : greattibrenno@gmail.com
 
--Phone number: (+55)(044)991648439
+[<img width = '22px' src = 'https://github.com/greatti/greatti/blob/main/linkedin.svg' />][Linkedin]
 
--[CurriculoLattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2497518Y9)
+<img width = '22px' src = 'https://github.com/greatti/greatti/blob/main/whatsapp.svg' /> : (+55)(044)991648439
 
+[CurriculoLattes]
+
+[Linkedin]: https://www.linkedin.com/in/brenno-greatti-703100208/
+[CurriculoLattes]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2497518Y9
 
 
