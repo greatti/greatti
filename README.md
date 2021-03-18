@@ -31,9 +31,10 @@ I program for 3 years but there is little time since when I started to really lo
 
 <img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/icons/github.svg' /> : @greatti
 
-[CurriculoLattes]
+<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/icons/curriculos.svg' /> : [CurriculoLattes] , [Curriculo] 
 
 [Linkedin]: https://www.linkedin.com/in/brenno-greatti-703100208/
 [CurriculoLattes]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2497518Y9
+[Curriculo]: https://github.com/greatti/greatti/blob/main/Curr%C3%ADculo%2018%2003%202021.pdf
 
 
