@@ -12,8 +12,11 @@ I program for 3 years but there is little time since when I started to really lo
 Soon i will learn a little MD and come back here to update this and give it some dynamic, but for now it is it! So thank you for reading this far. 
 
 How to find me: 
+
 -Email: greattibrenno@gmail.com
+
 -Phone number: (+55)(044)991648439
+
 -Curriculum Lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2497518Y9
 
 
