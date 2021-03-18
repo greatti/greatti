@@ -1,3 +1,4 @@
+![capa](https://github.com/greatti/greatti/blob/main/capa.gif)
 Im a Graduation student in Theoretical Physics at University of Maringá (BRAZIL). I love solving problems using Python, especially those involving data analysis and data visualization. Today i gave a little break for my Python studies and im learning a little front-end because i judged super important too, so im doing courses in CSS and HTML to jump into Javascript in the future. I have some hobbies too, i really love to draw and i learned Illustrator and Photoshop, so sometimes im doing some art there; and reading, im not the kind of reader that got used by PDF's so i have a little library in my home where i can spend hours reading about stuff, mostly physics and nature. 
 Today i started to give some beauty to my github and i hope i have finished at the time you are reading this, please enjoy!
 
@@ -17,7 +18,7 @@ How to find me:
 
 -Phone number: (+55)(044)991648439
 
--Curriculum Lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2497518Y9
+-[CurriculoLattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2497518Y9)
 
 
 
