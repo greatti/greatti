@@ -10,12 +10,14 @@ I program for 3 years but there is little time since when I started to really lo
 
 >>>My first formulary! It was the project that i improved my HTML the most, it was the project that i spent hours searching html functions and putting all together just to see how it was going to be at the end, and of course it was ugly, but i just wanted to practice my very first language before Python. I knew that formularys are one of the things that we have the MOST in the internet, so i was very excited about it;
 
-### Languages and Tools: 
+
+<h3> Languages and Tools</h3>
 
 <img align = 'left' alt = 'Python' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/py.svg' />
-<img align = 'left' alt = 'CSS3' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/css.svg' />
+<img align = 'left' alt = 'CSS3' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/css.svg' /> 
 <img align = 'left' alt = 'HTML5' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/html-5.svg' />
 <img align = 'left' alt = 'mySQL' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/sql-server.svg' />
+
 
 <br />
 <br />
@@ -33,8 +35,14 @@ I program for 3 years but there is little time since when I started to really lo
 
 <img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/icons/curriculos.svg' /> : [CurriculoLattes] , [Curriculo] 
 
+---
+
+![greatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatti&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [Linkedin]: https://www.linkedin.com/in/brenno-greatti-703100208/
 [CurriculoLattes]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2497518Y9
 [Curriculo]: https://github.com/greatti/greatti/blob/main/Curr%C3%ADculo%2018%2003%202021.pdf
 
-
+![footer](https://github.com/greatti/greatti/blob/main/images/footer.png)
