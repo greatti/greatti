@@ -1,4 +1,4 @@
-![capa](https://github.com/greatti/greatti/blob/main/capa.gif)
+![capa](https://github.com/greatti/greatti/blob/main/images/capa.gif)
 Im a Graduation student in Theoretical Physics at University of Maringá (BRAZIL). I love solving problems using Python, especially those involving data analysis and data visualization. Today i gave a little break for my Python studies and im learning a little front-end because i judged super important too, so im doing courses in CSS and HTML to jump into Javascript in the future. I have some hobbies too, i really love to draw and i learned Illustrator and Photoshop, so sometimes im doing some art there; and reading, im not the kind of reader that got used by PDF's so i have a little library in my home where i can spend hours reading about stuff, mostly physics and nature. 
 Today i started to give some beauty to my github and i hope i have finished at the time you are reading this, please enjoy!
 
@@ -12,10 +12,10 @@ I program for 3 years but there is little time since when I started to really lo
 
 ### Languages and Tools: 
 
-<img align = 'left' alt = 'Python' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/python.svg' />
-<img align = 'left' alt = 'CSS3' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/css3.svg' />
-<img align = 'left' alt = 'HTML5' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/html5.svg' />
-<img align = 'left' alt = 'mySQL' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/mysql.svg' />
+<img align = 'left' alt = 'Python' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/py.svg' />
+<img align = 'left' alt = 'CSS3' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/css.svg' />
+<img align = 'left' alt = 'HTML5' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/html-5.svg' />
+<img align = 'left' alt = 'mySQL' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/sql-server.svg' />
 
 <br />
 <br />
@@ -23,11 +23,13 @@ I program for 3 years but there is little time since when I started to really lo
 
 ### Connect with me: 
 
-<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/gmail.svg' /> : greattibrenno@gmail.com
+<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/icons/gmail2.svg' /> : greattibrenno@gmail.com
 
-[<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/linkedin.svg' />][Linkedin] : Brenno Greatti Silva
+[<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/icons/logotipo-do-linkedin.svg' />][Linkedin] : Brenno Greatti Silva
 
-<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/whatsapp.svg' /> : (+55)(044)991648439 
+<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/icons/wpp.svg' /> : (+55)(044)991648439 
+
+<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/icons/github.svg' /> : @greatti
 
 [CurriculoLattes]
 
