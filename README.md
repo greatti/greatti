@@ -10,15 +10,24 @@ I program for 3 years but there is little time since when I started to really lo
 
 >>>My first formulary! It was the project that i improved my HTML the most, it was the project that i spent hours searching html functions and putting all together just to see how it was going to be at the end, and of course it was ugly, but i just wanted to practice my very first language before Python. I knew that formularys are one of the things that we have the MOST in the internet, so i was very excited about it;
 
-Soon i will learn a little MD and come back here to update this and give it some dynamic, but for now it is it! So thank you for reading this far. 
+### Languages and Tools: 
+
+<img align = 'left' alt = 'Python' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/python.svg' />
+<img align = 'left' alt = 'CSS3' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/css3.svg' />
+<img align = 'left' alt = 'HTML5' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/html5.svg' />
+<img align = 'left' alt = 'mySQL' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/mysql.svg' />
+
+<br />
+<br />
+<br />
 
 ### Connect with me: 
 
-<img width = '22px' src = 'https://github.com/greatti/greatti/blob/main/gmail.svg' /> : greattibrenno@gmail.com
+<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/gmail.svg' /> : greattibrenno@gmail.com
 
-[<img width = '22px' src = 'https://github.com/greatti/greatti/blob/main/linkedin.svg' />][Linkedin]
+[<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/linkedin.svg' />][Linkedin] : Brenno Greatti Silva
 
-<img width = '22px' src = 'https://github.com/greatti/greatti/blob/main/whatsapp.svg' /> : (+55)(044)991648439
+<img width = '30px' src = 'https://github.com/greatti/greatti/blob/main/whatsapp.svg' /> : (+55)(044)991648439 
 
 [CurriculoLattes]
 
