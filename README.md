@@ -11,6 +11,7 @@ I program for 3 years but there is little time since when I started to really lo
 
 >>>My first formulary! It was the project that i improved my HTML the most, it was the project that i spent hours searching html functions and putting all together just to see how it was going to be at the end, and of course it was ugly, but i just wanted to practice my very first language before Python. I knew that formularys are one of the things that we have the MOST in the internet, so i was very excited about it;
 
+<hr> 
 
 <h3> Languages and Tools</h3>
 
@@ -23,6 +24,8 @@ I program for 3 years but there is little time since when I started to really lo
 <br />
 <br />
 <br />
+
+<hr> 
 
 ### Connect with me: 
 
