@@ -1,5 +1,5 @@
 ![capa](https://github.com/greatti/greatti/blob/main/images/capa-github.png)
-My name is Brenno Greatti, im a Graduation student in Theoretical Physics at University of Maringá (BRAZIL). I love solving problems using Python, especially those involving data analysis and data visualization. Today i gave a little break for my Python studies and im learning a little front-end because i judged super important too, so im doing courses in CSS and HTML to jump into Javascript in the future.
+My name is Brenno Greatti, im a Graduation student in Theoretical Physics at University of Maringá (BRAZIL). I love solving problems using Python, especially those involving data analysis and data visualization. Today i gave a little break for my Python studies and im learning a little front-end because i judged super important too, so im doing courses in CSS and HTML to jump into Javascript in the future. Also, im improving my knowledges in Python to jump into Julia.
 I have some hobbies too: i really love to draw and i learned Illustrator and Photoshop, so sometimes im doing some art there; and reading, im not the kind of reader that got used by PDF's so i have a little library in my home where i can spend hours reading about stuff, mostly physics and nature. 
 Today i started to give some beauty to my github and i hope i have finished at the time you are reading this, please enjoy!
 
@@ -15,13 +15,24 @@ I program for 3 years but there is little time since when I started to really lo
 
 <hr> 
 
-<h3> Languages and Tools</h3>
+<h3> Languages i work with</h3>
 
 <img align = 'left' alt = 'Python' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/py.svg' />
 <img align = 'left' alt = 'CSS3' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/css.svg' /> 
 <img align = 'left' alt = 'HTML5' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/html-5.svg' />
-<img align = 'left' alt = 'mySQL' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/sql-server.svg' />
 
+
+<br />
+<br />
+<br />
+
+<hr> 
+
+<h3> Languages im currently learning</h3>
+
+<img align = 'left' alt = 'Julia' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/Julia_prog_language.svg.png' />
+<img align = 'left' alt = 'JavaScript' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/javascript-seeklogo.com.svg' />
+<img align = 'left' alt = 'SQL' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/sql-file-format.svg' />
 
 <br />
 <br />
