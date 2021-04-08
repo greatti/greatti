@@ -32,7 +32,7 @@ I program for 3 years but there is little time since when I started to really lo
 
 <img align = 'left' alt = 'Julia' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/Julia_prog_language.svg.png' />
 <img align = 'left' alt = 'JavaScript' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/javascript-seeklogo.com.svg' />
-<img align = 'left' alt = 'SQL' width = '50px' src = 'https://github.com/greatti/greatti/blob/main/icons/sql-file-format.svg' />
+<img align = 'left' alt = 'SQL' width = '130px' src = 'https://github.com/greatti/greatti/blob/main/icons/SQLite.png' />
 
 <br />
 <br />
