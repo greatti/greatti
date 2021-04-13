@@ -20,16 +20,6 @@ I program for 3 years but there is little time since when I started to really lo
 <img align = 'left' alt = 'Python' width = '90px' src = 'https://github.com/greatti/greatti/blob/main/icons/python.svg' />
 <img align = 'left' alt = 'CSS3' width = '90px' src = 'https://github.com/greatti/greatti/blob/main/icons/css3.svg' /> 
 <img align = 'left' alt = 'HTML5' width = '90px' src = 'https://github.com/greatti/greatti/blob/main/icons/html5.svg' />
-
-
-<br />
-<br />
-<br />
-
-<hr> 
-
-<h3> Languages im currently learning</h3>
-
 <img align = 'left' alt = 'Julia' width = '90px' src = 'https://github.com/greatti/greatti/blob/main/icons/julia.svg' />
 <img align = 'left' alt = 'MongoDB' width = '90px' src = 'https://github.com/greatti/greatti/blob/main/icons/mongodb.svg' />
 <img align = 'left' alt = 'SQLite' width = '90px' src = 'https://github.com/greatti/greatti/blob/main/icons/sqlite.svg' />
